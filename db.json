@@ -1,0 +1,186 @@
+{
+    "users": [
+      {
+        "first_Name": "Rani",
+        "last_Name": "Bhosale",
+        "address": "Pune",
+        "contact": "1231231234",
+        "email": "rani@gmail.com",
+        "password": "111111",
+        "id": 42
+      },
+      {
+        "first_Name": "Ganesh",
+        "last_Name": "Bhosale",
+        "address": "54 Cailhead Drive",
+        "contact": "1231231231",
+        "email": "ganesh@gmail.com",
+        "password": "123123",
+        "id": 43
+      },
+      {
+        "first_Name": "Swasti",
+        "last_Name": "Bhosale",
+        "address": "Pune",
+        "contact": "1234512345",
+        "email": "Swasti@gmail.com",
+        "password": "swasti",
+        "id": 44
+      },
+      {
+        "first_Name": "Shiv",
+        "last_Name": "Patil",
+        "address": "Pune",
+        "contact": "1234455666",
+        "email": "shiv@gmail.com",
+        "password": "shiv123",
+        "id": 45
+      },
+      {
+        "first_Name": "www",
+        "last_Name": "www",
+        "address": "www",
+        "contact": "1231231231",
+        "email": "de@gmail.com",
+        "password": "123456",
+        "id": 46
+      },
+      {
+        "first_Name": "Prachi",
+        "last_Name": "Patil",
+        "address": "Pune",
+        "contact": "9780896789",
+        "email": "prachi@gmail.com",
+        "password": "L0ve56",
+        "id": 47
+      }
+    ],
+    "msgs": [
+      {
+        "id": 1,
+        "name": "Swasti",
+        "contact": "1234567890",
+        "email_Id": "Swasti@gmail.com",
+        "message": "Any rooms available?"
+      },
+      {
+        "name": "Ganesh Bhosale",
+        "contact": "1231231231",
+        "email": "priyanka.patil@gmail.com",
+        "message": "ht",
+        "id": 51
+      }
+    ],
+    "booking": [
+      {
+        "email": "rani@gmail.com",
+        "type": "Standard",
+        "adult": "2",
+        "child": "",
+        "dateto": "2022-10-07",
+        "datefrom": "2022-10-05",
+        "amount": 200,
+        "id": 3
+      },
+      {
+        "email": "rani@gmail.com",
+        "type": "Standard",
+        "adult": "1",
+        "child": "",
+        "dateto": "2022-10-04",
+        "datefrom": "2022-10-03",
+        "amount": 50,
+        "id": 4
+      },
+      {
+        "email": "Swasti@gmail.com",
+        "type": "Suite",
+        "adult": "1",
+        "child": "1",
+        "dateto": "2022-10-10",
+        "datefrom": "2022-10-09",
+        "amount": 200,
+        "id": 5
+      },
+      {
+        "email": "rani@gmail.com",
+        "type": "Standard",
+        "adult": "2",
+        "child": "",
+        "dateto": "2022-10-15",
+        "datefrom": "2022-10-14",
+        "amount": 100,
+        "id": 6
+      },
+      {
+        "email": "ganesh@gmail.com",
+        "type": "Delux",
+        "adult": "1",
+        "child": "1",
+        "dateto": "2022-10-15",
+        "datefrom": "2022-10-14",
+        "amount": 100,
+        "id": 7
+      },
+      {
+        "email": "Swasti@gmail.com",
+        "type": "Standard",
+        "adult": "2",
+        "child": "",
+        "dateto": "2022-11-18",
+        "datefrom": "2022-11-17",
+        "amount": 100,
+        "id": 8
+      },
+      {
+        "email": "rani@gmail.com",
+        "type": "Standard",
+        "adult": "2",
+        "child": "",
+        "dateto": "2022-11-07",
+        "datefrom": "2022-11-06",
+        "amount": 100,
+        "id": 9
+      },
+      {
+        "email": "rani@gmail.com",
+        "type": "Standard",
+        "adult": "2",
+        "child": "",
+        "dateto": "2022-11-17",
+        "datefrom": "2022-11-15",
+        "amount": 200,
+        "id": 10
+      },
+      {
+        "email": "rani@gmail.com",
+        "type": "Standard",
+        "adult": "2",
+        "child": "",
+        "dateto": "2022-12-21",
+        "datefrom": "2022-12-18",
+        "amount": 300,
+        "id": 11
+      },
+      {
+        "email": "rani@gmail.com",
+        "type": "Standard",
+        "adult": "1",
+        "child": "",
+        "dateto": "2022-12-31",
+        "datefrom": "2022-12-24",
+        "amount": 350,
+        "id": 12
+      },
+      {
+        "email": "prachi@gmail.com",
+        "type": "Delux",
+        "adult": "1",
+        "child": "1",
+        "dateto": "2023-03-30",
+        "datefrom": "2023-03-29",
+        "amount": 100,
+        "id": 13
+      }
+    ]
+  }

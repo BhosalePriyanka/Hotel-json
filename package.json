@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "init": "^0.1.2",
+    "json-server": "^0.17.3"
+  },
+  "name": "hotel-json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhosalePriyanka/Hotel-json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BhosalePriyanka/Hotel-json/issues"
+  },
+  "homepage": "https://github.com/BhosalePriyanka/Hotel-json#readme",
+  "description": ""
+}
